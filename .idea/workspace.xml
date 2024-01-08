@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5907bed-eae6-42c8-bd0d-471a05fceb0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Digit Recognizer/amith_submission.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Digit Recognizer/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Digit Recognizer/notebook.ipynb" afterDir="false" />
     </list>
