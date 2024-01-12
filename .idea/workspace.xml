@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5907bed-eae6-42c8-bd0d-471a05fceb0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Regression with a Mohs Hardness Dataset/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression with a Mohs Hardness Dataset/sample_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression with a Mohs Hardness Dataset/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression with a Mohs Hardness Dataset/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5907bed-eae6-42c8-bd0d-471a05fceb0b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
